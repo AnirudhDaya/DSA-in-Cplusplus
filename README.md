@@ -20,7 +20,7 @@ gcc file-name.cpp -o file-name   //here file-name is a your desired name
 file-name   //here file-name is a your desired name 
 ```
 
-### For Linux <img src="https://image.similarpng.com/very-thumbnail/2020/11/Happy-cartoon-penguin-illustration-on-transparent-background-PNG.png" width="30px">
+### For Linux <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="70px">
 Open terminal and
 navigate to the location where you saved the file and now run the following commands  
 
