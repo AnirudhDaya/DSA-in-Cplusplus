@@ -35,6 +35,8 @@ gcc file-name.cpp    //here file-name is a your desired name
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Skip the hassle, use gitpod
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/AnirudhDaya/DSA-in-Cplusplus)
 
 Please make sure to update tests as appropriate.
 
