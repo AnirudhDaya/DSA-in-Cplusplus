@@ -7,10 +7,10 @@ int count(int s, int e)
    {
        return 0;
    } 
-   int cunt=0;
+   int cunt=0; // Declares count variable
    for(int i=1;i<7;i++)
    {
-       cunt+=count(s+i,e);
+       cunt+=count(s+i,e); // Increments the count variable
    }
    return cunt;
 }
